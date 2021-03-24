@@ -31,6 +31,18 @@
       "nome": "Refrigerante",
       "mes_validade": 6,
       "secoeId": 1
+    },
+    {
+      "nome": "Cotonete",
+      "mes_validade": "2",
+      "secoeId": 2,
+      "id": 5
+    },
+    {
+      "nome": "Riquelme",
+      "mes_validade": "123",
+      "secoeId": 1,
+      "id": 6
     }
   ]
 }

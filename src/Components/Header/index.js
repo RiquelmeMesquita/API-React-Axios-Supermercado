@@ -11,6 +11,14 @@ const Header = () => {
       <NavLink activeClassName="badge badge-primary" to="cadastro" end>
         Cadastro
       </NavLink>
+      {' | '}
+      <NavLink activeClassName="badge badge-primary" to="mostrarSec" end>
+        Seção
+      </NavLink>
+      {' | '}
+      <NavLink activeClassName="badge badge-primary" to="cadastroSec" end>
+        Cadastro de seção
+      </NavLink>
     </nav>
   );
 };
